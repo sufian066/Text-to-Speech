@@ -49,7 +49,7 @@ tts-fullstack-project/
 Setup Instructions:
 
 1. Clone the Repository:
-git clone https://github.com/your-username/tts-fullstack-project.git
+git clone https://github.com/sufian066/tts-fullstack-project.git
 cd tts-fullstack-project
 
 2. Install Dependencies:
